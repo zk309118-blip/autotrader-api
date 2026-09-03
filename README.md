@@ -153,6 +153,7 @@ More detail in [docs/pagination.md](docs/pagination.md).
 
 ## Codebook
 
+
 Every valid filter value — 72 makes with their full model and trim trees, plus
 colors, body styles, features, mileage bands — comes from one unauthenticated
 reference call. A snapshot ships embedded, so this works offline:
